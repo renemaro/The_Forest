@@ -1,0 +1,5 @@
+- use item cards to collect as many resources as you can (tools for stump\stones, gloves for trees\bush, a talisman for idols)
+- beware of monsters, the more resources you collect the more chance monsters will attack you
+- use skills to kill monsters
+- get back to camp - craft tools and replenish skills using collected resources
+- repeat
